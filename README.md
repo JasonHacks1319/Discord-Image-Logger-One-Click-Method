@@ -7,7 +7,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 ![GitHub issues](https://img.shields.io/github/issues/9P9/Discord-QR-Token-Logger)
 
-![Dicord Image Logger Gui]([https://user-images.githubusercontent.com/38190847/187040712-92f4c796-c655-47a2-abb2-7f4519d1dab7.png](https://media.discordapp.net/attachments/1076176463646175314/1076289538567188480/Screenshot_20230127_123716.png))
+![Discord Image Logger One Click Method](https://media.discordapp.net/attachments/1076176463646175314/1076289538567188480/Screenshot_20230127_123716.png)
 
 
 # Discord-Image-Logger-One-Click-Method
