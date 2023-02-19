@@ -1,3 +1,7 @@
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
+![author](https://svgshare.com/i/mg6.svg)
+
 ![Profile views](https://gpvc.arturio.dev/github-profile-views-counter)
 
 # Discord-Image-Logger-One-Click-Method
