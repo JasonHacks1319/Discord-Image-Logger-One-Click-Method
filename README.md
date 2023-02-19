@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/github-profile-views-counter)
+
 # Discord-Image-Logger-One-Click-Method
 A discord one click image logger method for free
 
