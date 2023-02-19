@@ -6,9 +6,8 @@
 
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
-![author](https://svgshare.com/i/mg6.svg)
-
 ![Profile views](https://gpvc.arturio.dev/github-profile-views-counter)
+
 ![GitHub contributors](https://img.shields.io/github/contributors/JasonHacks1319/Discord-Image-Logger-One-Click-Method)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 ![GitHub issues](https://img.shields.io/github/issues/9P9/Discord-QR-Token-Logger)
